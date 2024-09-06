@@ -1,4 +1,5 @@
 # Passo a passo para salvar os arquivos no git
+### git init (para salvar a pasta como o git)
 ### Exemplo: git add PASSO_A_PASSO
 ### git commit -m "My first commit"
 ### git branch -M main
