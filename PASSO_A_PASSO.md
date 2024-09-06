@@ -4,3 +4,8 @@
 ### git branch -M main
 ### git remote add origin https://github.com/HectorPortes/(nome da pasta).git
 ### git push -u origin main
+
+# Para atualizar um arquivo
+### git add <arquivo> ou . (para atualizar todos os arquivos)
+### git commit -m "atualizações"
+### git push
