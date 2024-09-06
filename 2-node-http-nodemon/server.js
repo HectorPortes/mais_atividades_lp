@@ -11,7 +11,7 @@ const port = 3000;
 const server = http.createServer((requisicao, resposta) => {
     resposta.statusCode = 200;
     resposta.setHeader('Content-Type', 'text/plan; charset=utf-8');
-    resposta.write('Olá! Este é um servidor HTTP');
+    resposta.write('Olá! Este é um servidor HTTP e está rodando localmente');
     resposta.end();
 });
 
