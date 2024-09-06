@@ -1,0 +1,6 @@
+# Passo a passo para salvar os arquivos no git
+### Exemplo: git add PASSO_A_PASSO
+### git commit -m "My first commit"
+### git branch -M main
+### git remote add origin https://github.com/HectorPortes/(nome da pasta).git
+### git push -u origin main
